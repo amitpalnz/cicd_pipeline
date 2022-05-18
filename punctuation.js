@@ -1,4 +1,5 @@
 
+/*
 const punctuation=(input)=>{
 
   var punch = '.,?%!$&*;:{};+*^=_`~()';
@@ -12,9 +13,9 @@ const punctuation=(input)=>{
 }
 module.exports= punctuation;
 
+*/
 
 
-/*
 const punctuation=(input)=>{
   
    var punctuationless = input.replace(/[.,?%!$&*;:{}=^_`~()]/g, " ");
@@ -23,7 +24,7 @@ const punctuation=(input)=>{
 
    module.exports= punctuation;
 
-*/
+
 
 
 
