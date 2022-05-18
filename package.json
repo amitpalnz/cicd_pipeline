@@ -1,7 +1,6 @@
 {
   "name": "challenge",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -17,5 +16,14 @@
   "devDependencies": {
     "jest": "^28.1.0",
     "nodemon": "^2.0.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitpalnz/cicd_pipeline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amitpalnz/cicd_pipeline/issues"
+  },
+  "homepage": "https://github.com/amitpalnz/cicd_pipeline#readme",
+  "description": ""
 }
